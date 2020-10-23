@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADI>
+   <Metadata>
+      <AMS Asset_Name="2019年高考试卷解析（下）" Provider="SDJY" Product="VOD" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2019-06-17" Provider_ID="10082" Asset_ID="FTIT0120190617237838" Asset_Class="package"/>
+   </Metadata>
+   <Asset>
+      <Metadata>
+         <AMS Asset_Name="2019年高考试卷解析（下）" Provider="SDJY" Product="VOD" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2019-06-17" Provider_ID="10082" Asset_ID="FTIT0120190617237838" Asset_Class="title"/>
+         <App_Data App="MOD" Name="Title" Value="2019年高考试卷解析（下）"/>
+         <App_Data App="MOD" Name="Run_Time" Value="00:44:00"/>
+         <App_Data App="MOD" Name="Title_Brief" Value="2019年高考试卷解析（下）"/>
+         <App_Data App="MOD" Name="Title_Sort_Name" Value="01"/>
+         <App_Data App="MOD" Name="Year" Value=""/>
+         <App_Data App="MOD" Name="Version" Value="1.0"/>
+         <App_Data App="MOD" Name="Licensing_Window_Start" Value="2014-01-01 00:00:00"/>
+         <App_Data App="MOD" Name="Licensing_Window_End" Value="2036-12-31 00:00:00"/>
+         <App_Data App="MOD" Name="Country_of_Origin" Value=""/>
+         <App_Data App="MOD" Name="Distributor_Name" Value=""/>
+         <App_Data App="MOD" Name="Languages" Value="Chinese"/>
+         <App_Data App="MOD" Name="Actors" Value=""/>
+         <App_Data App="MOD" Name="Director" Value=""/>
+         <App_Data App="MOD" Name="Summary_Short" Value=""/>
+         <App_Data App="MOD" Name="Copy_Protection" Value="Y"/>
+         <App_Data App="MOD" Name="PlayBandwidth" Value="2400000"/>
+         <App_Data App="MOD" Name="Encryption" Value="N"/>
+         <App_Data App="MOD" Name="TitleCharactersCount" Value="8"/>
+         <App_Data App="MOD" Name="TitleAbbreviation" Value="2019NGKSJJXX"/>
+         <App_Data App="MOD" Name="ADIFileExportTimestamp" Value="20190719103924"/>
+         <App_Data App="MOD" Name="Chapter" Value="01"/>
+         <App_Data App="MOD" Name="DeleteTime" Value="2037-01-02 00:00:00"/>
+         <App_Data App="MOD" Name="Category" Value="\首都教育新\非常向上"/>
+      </Metadata>
+      <Asset>
+         <Metadata>
+            <AMS Asset_Name="2019年高考试卷解析（下）FMOV0120190617237838" Provider="SDJY" Product="VOD" Version_Major="1" Version_Minor="0" Description="" Creation_Date="2019-06-17" Provider_ID="10082" Asset_ID="FMOV0120190617237838" Asset_Class="movie"/>
+            <App_Data App="MOD" Name="Licensing_Window_Start" Value="2014-01-01 00:00:00"/>
+            <App_Data App="MOD" Name="Bit_Rate" Value="2400000"/>
+            <App_Data App="MOD" Name="Licensing_Window_End" Value="2036-12-31 00:00:00"/>
+            <App_Data App="MOD" Name="DeleteTime" Value="2037-01-02 00:00:00"/>
+            <App_Data App="MOD" Name="Content_FileSize" Value="808515584"/>
+            <App_Data App="MOD" Name="ContentType" Value="title"/>
+            <App_Data App="MOD" Name="DeleteSource" Value="N"/>
+            <App_Data App="MOD" Name="FSContentFormat" Value="H264"/>
+            <App_Data App="MOD" Name="FSSubFileFlag" Value="4"/>
+            <App_Data App="MOD" Name="HDContent" Value="Y"/>
+            <App_Data App="MOD" Name="UploadingTaskID" Value="698567"/>
+            <App_Data App="MOD" Name="UploadingProgress" Value="808515584"/>
+            <App_Data App="MOD" Name="MD5Checksum" Value="ba659934b5c6a33309e89d0b236fd874"/>
+            <App_Data App="MOD" Name="MD5DateTime" Value="2019-06-17T09:45:56+08:00"/>
+            <App_Data App="MOD" Name="SupportFileSize" Value="0"/>
+            <App_Data App="MOD" Name="CSContentName" Value="FMOV0120190617237838_10082"/>
+         </Metadata>
+         <Content Value="ftp://ghyxapollo:ghyxapollo@172.16.220.161/u/VOD/思迁SD-H264-MZ42019年高考试卷解析（下）.ts"/>
+      </Asset>
+   </Asset>
+</ADI>
